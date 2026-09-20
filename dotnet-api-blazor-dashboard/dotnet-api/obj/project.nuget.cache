@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "y/6f/GZdcBA=",
+  "success": true,
+  "projectFilePath": "C:\\Data\\Creativity-as-Code\\02-IT-Career\\GitHub-Public\\dotnet-api-blazor-dashboard\\dotnet-api-blazor-dashboard\\dotnet-api\\dotnet-api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matt.DISTINCTSOUND\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.12\\microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "C:\\Users\\matt.DISTINCTSOUND\\.nuget\\packages\\microsoft.openapi\\2.12.0\\microsoft.openapi.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}

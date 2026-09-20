@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Data\\Creativity-as-Code\\02-IT-Career\\GitHub-Public\\dotnet-api-blazor-dashboard\\dotnet-api-blazor-dashboard\\blazor-dashboard\\blazor-dashboard.csproj": {}
+    "C:\\Data\\Creativity-as-Code\\02-IT-Career\\GitHub-Public\\dotnet-api-blazor-dashboard\\dotnet-api-blazor-dashboard\\dotnet-api\\dotnet-api.csproj": {}
   },
   "projects": {
-    "C:\\Data\\Creativity-as-Code\\02-IT-Career\\GitHub-Public\\dotnet-api-blazor-dashboard\\dotnet-api-blazor-dashboard\\blazor-dashboard\\blazor-dashboard.csproj": {
+    "C:\\Data\\Creativity-as-Code\\02-IT-Career\\GitHub-Public\\dotnet-api-blazor-dashboard\\dotnet-api-blazor-dashboard\\dotnet-api\\dotnet-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Data\\Creativity-as-Code\\02-IT-Career\\GitHub-Public\\dotnet-api-blazor-dashboard\\dotnet-api-blazor-dashboard\\blazor-dashboard\\blazor-dashboard.csproj",
-        "projectName": "blazor-dashboard",
-        "projectPath": "C:\\Data\\Creativity-as-Code\\02-IT-Career\\GitHub-Public\\dotnet-api-blazor-dashboard\\dotnet-api-blazor-dashboard\\blazor-dashboard\\blazor-dashboard.csproj",
+        "projectUniqueName": "C:\\Data\\Creativity-as-Code\\02-IT-Career\\GitHub-Public\\dotnet-api-blazor-dashboard\\dotnet-api-blazor-dashboard\\dotnet-api\\dotnet-api.csproj",
+        "projectName": "dotnet-api",
+        "projectPath": "C:\\Data\\Creativity-as-Code\\02-IT-Career\\GitHub-Public\\dotnet-api-blazor-dashboard\\dotnet-api-blazor-dashboard\\dotnet-api\\dotnet-api.csproj",
         "packagesPath": "C:\\Users\\matt.DISTINCTSOUND\\.nuget\\packages\\",
-        "outputPath": "C:\\Data\\Creativity-as-Code\\02-IT-Career\\GitHub-Public\\dotnet-api-blazor-dashboard\\dotnet-api-blazor-dashboard\\blazor-dashboard\\obj\\",
+        "outputPath": "C:\\Data\\Creativity-as-Code\\02-IT-Career\\GitHub-Public\\dotnet-api-blazor-dashboard\\dotnet-api-blazor-dashboard\\dotnet-api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -53,11 +53,9 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
-            "Microsoft.AspNetCore.App.Internal.Assets": {
-              "suppressParent": "All",
+            "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[10.0.12, )",
-              "autoReferenced": true
+              "version": "[10.0.12, )"
             }
           },
           "imports": [

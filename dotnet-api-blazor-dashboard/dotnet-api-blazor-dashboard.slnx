@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="blazor-dashboard/blazor-dashboard.csproj" />
+  <Project Path="dotnet-api/dotnet-api.csproj" Id="dce24a50-8e71-42fc-90a6-2706fd3ed2f4" />
 </Solution>
