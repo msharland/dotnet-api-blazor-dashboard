@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FJoz9TvDl5I=",
+  "success": true,
+  "projectFilePath": "C:\\Data\\Creativity-as-Code\\02-IT-Career\\GitHub-Public\\dotnet-api-blazor-dashboard\\blazor-dashboard\\blazor-dashboard\\blazor-dashboard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matt.DISTINCTSOUND\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.12\\microsoft.aspnetcore.app.internal.assets.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
